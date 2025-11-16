@@ -127,9 +127,3 @@ Creemos que el modelo está **sobreajustando los datos de entrenamiento**. Posib
 5. **Ensemble con otros modelos**: 
    - Probar XGBoost, CatBoost o modelos lineales
    - Combinar predicciones mediante stacking o blending
-
-6. **Ajuste de los factores de riesgo**: 
-   - Los factores actuales (20x-30x) parecen muy altos
-   - Experimentar con rangos más conservadores (1.1x-2x)
-
-
